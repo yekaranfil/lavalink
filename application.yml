@@ -5,7 +5,7 @@ spring:
   main:
     banner-mode: log
 lavalink:
-  server: ssadasdads.herokuapp.com/
+  server: 
     password: "poyrazlavalink1234"
     sources:
       youtube: true
